@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "yjgbg.me"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
